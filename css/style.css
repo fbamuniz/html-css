@@ -1,0 +1,11 @@
+body{
+    background-color: #c0c0c0;
+}
+p.texto1{
+    color: #ff0000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+}
+p.texto2{
+    color: #180adf;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+}
